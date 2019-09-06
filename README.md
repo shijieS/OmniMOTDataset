@@ -17,7 +17,7 @@
 
 ## Copyright
 - CARLA specific assets are distributed under CC-BY License.
-- This dataset is opened and is released under the MIT License. Anyone can extend it. If you use it, please put the following texts in your description.
+- This dataset is opened and is released under the MIT License. Anyone can extend it. If you your work is based on it, please put the following texts in your description.
 ```
 This dataset is extended from AMOTD. Please cite the following papers:
 
