@@ -4,7 +4,7 @@
 
 ## Download
 
-[baidu](https://pan.baidu.com/s/1ma0rZIW6vfXeq5tdEk6K2w)
+[[baidu]](https://pan.baidu.com/s/1ma0rZIW6vfXeq5tdEk6K2w)
 
 ## Structure
 
