@@ -33,8 +33,7 @@ The published dataset comprises five-level structures. At the 1st level, we divi
 
 ## Sample Videos
 
-<iframe src='//gifs.com/embed/omni-mot-mOX0gO' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-
+[![Demo Videos](https://j.gifs.com/mOX0gO.gif)](https://youtu.be/os50DpuM8Ag)
 
 ## Cite
 
