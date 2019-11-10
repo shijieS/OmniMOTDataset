@@ -4,7 +4,7 @@
 
 ## Download
 
-[[baidu]](https://pan.baidu.com/s/1ma0rZIW6vfXeq5tdEk6K2w)
+[[baidu]](https://pan.baidu.com/s/1ma0rZIW6vfXeq5tdEk6K2w), [*google drive is not enough*], [*dropbox is also not that enough*]
 
 ## Structure
 
@@ -37,12 +37,18 @@ The published dataset comprises five-level structures. At the 1st level, we divi
 
 ## Cite
 
+Our paper is preparing now.
+
 
 ## Copyright
 - CARLA specific assets are distributed under CC-BY License.
 - This dataset is opened and is released under the MIT License. Anyone can extend it. If you your work is based on it, please put the following texts in your description.
 ```
 This dataset is extended from AMOTD. Please cite the following papers:
+
+...
+
+and 
 
 @inproceedings{Dosovitskiy17,
   title = {{CARLA}: {An} Open Urban Driving Simulator},
@@ -51,8 +57,6 @@ This dataset is extended from AMOTD. Please cite the following papers:
   pages = {1--16},
   year = {2017}
 }
-
-and 
 
 
 
