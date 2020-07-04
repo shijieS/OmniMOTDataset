@@ -37,18 +37,12 @@ The published dataset comprises five-level structures. At the 1st level, we divi
 
 ## Cite
 
-Our paper is preparing now.
-
-
-## Copyright
-- CARLA specific assets are distributed under CC-BY License.
-- This dataset is opened and is released under the MIT License. Anyone can extend it. If you your work is based on it, please put the following texts in your description.
 ```
-This dataset is extended from AMOTD. Please cite the following papers:
-
-...
-
-and 
+@inproceedings{ShiJie20,
+  author = {Shijie Sun, Naveed Aktar, XiangYu Song, Huansheng Song, Ajmal Mian, Mubarak Shah},
+  title = {Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking},
+  booktitle = {Proceedings of the European conference on computer vision (ECCV)}},
+  year = {2020}
 
 @inproceedings{Dosovitskiy17,
   title = {{CARLA}: {An} Open Urban Driving Simulator},
@@ -57,8 +51,13 @@ and
   pages = {1--16},
   year = {2017}
 }
-
-
-
 ```
+
+
+## Copyright
+- CARLA specific assets are distributed under CC-BY License.
+- This dataset is opened and is released under the MIT License. Anyone can extend it. If you your work is based on it, please put the following texts in your description.
+
+- The methods provided on this page are published under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) . This means that you must attribute the work in the manner specified by the authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license. If you are interested in commercial usage you can contact us for further options.
+
 
